@@ -11,3 +11,4 @@ https://files.origincloud.info
 origincloud@icloud.com
 或
 origin@cloudnotification.net
+Thanks.
