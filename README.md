@@ -2,6 +2,8 @@
 这个网站用于显示最新的域名, 请收藏
 
 最新域名:
+https://origincloud01.xyz
+永久域名:
 https://origincloud.xyz
 
 原点基地的灯塔:
