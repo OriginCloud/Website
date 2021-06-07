@@ -3,6 +3,8 @@
 
 最新域名:
 https://origincloud01.xyz
+备用域名:
+https://origincloud02.xyz
 
 永久域名:
 https://origincloud.xyz
@@ -11,6 +13,4 @@ https://origincloud.xyz
 https://files.origincloud.info
 
 以上方法均失效时, 可联系管理员邮箱
-origincloud@icloud.com
-或
 origin@cloudnotification.net
