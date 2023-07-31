@@ -16,5 +16,5 @@ https://origincloud.xyz
 原点基地的灯塔:
 https://files.origincloud.info
 
-以上方法均失效时, 可联系管理员邮箱:
+**以上方法均失效时, 可联系管理员邮箱:**
 origincare@protonmail.com
