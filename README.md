@@ -2,7 +2,8 @@
 **本项目用于发布最新信息, 请收藏网页或星标**
 
 请同时**收藏**下列网址 **作为备份**:
-`https://gitlab.com/origincloud/info`
+https://gitlab.com/origincloud/info
+
 
 ## 信息更新
 
@@ -16,8 +17,6 @@ https://origincloud02.xyz
 永久域名:
 https://origincloud.xyz
 
-原点基地的灯塔:
-https://files.origincloud.info
 
 #### 以上方法均失效时, 可联系管理员邮箱
 邮箱:
